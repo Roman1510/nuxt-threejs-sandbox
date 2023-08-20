@@ -1,10 +1,10 @@
 <template>
-  <TestComponent />
+  <AboutContent />
 </template>
 
 <script>
 
 export default {
-  name: 'TestPage'
+  name: 'AboutPage'
 }
 </script>
